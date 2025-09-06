@@ -8366,7 +8366,8 @@ h1, h2, h3, h4, h5,
 .navbar-brand {
   font-weight: 900;
   font-size: 24px;
-  text-transform: uppercase; }
+  /* text-transform: uppercase;  */
+}
 
 .hero h3.vr {
   -webkit-writing-mode: vertical-lr;
